@@ -5,7 +5,9 @@ Data Results:
 
 Max Consecutive Crashes under 1.10 in a row: 7
 
-Which means, if you did a 1.10 auto cash out with a base bet of $0.01, you'd need $214,359 balance to generate $5 for every 5000 rounds or about every 24 hours on average for a theoretically 100% win rate. But since Roobet's max profit at the time is $15,000 this is impossible. BUT, you will most likely double your money if you ran it and took out profits until you do get wiped out since 7 is very rare occurrence.
+Which means, if you did a 1.10 auto cash out with a base bet of $0.01, you'd need $214,359 balance to generate $5 for every 5000 rounds
+or about every 24 hours on average for a theoretically 100% win rate. But since Roobet's max profit at the time is $15,000 this is impossible.
+BUT, you will most likely double your money if you ran it and took out profits until you do get wiped out since 7 is very rare occurrence.
 
 
 Data of 500,000 rounds
