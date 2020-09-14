@@ -5,7 +5,7 @@ Data Results:
 
 Max Consecutive Crashes under 1.10 in a row: 7
 
-Which means, if you did a 1.10 auto cash ou with a base bet of $0.01, you'd need $19,488 balance to generate $5 for every 5000 rounds or about every 24 hours on average.
+Which means, if you did a 1.10 auto cash out with a base bet of $0.01, you'd need $19,488 balance to generate $5 for every 5000 rounds or about every 24 hours on average.
 
 
 Data of 500,000 rounds
